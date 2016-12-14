@@ -1,6 +1,6 @@
 
 {
-    "name": "Mtesting\/Bases",
+    "name": "magentodevleper/Bases",
     "description": "Advanced Order Success Page",
     "require": {
         "php": "~5.6.0|7.0.2|~7.0.6",

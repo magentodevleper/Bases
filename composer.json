@@ -26,6 +26,9 @@
                 "*","Mtesting/Bases/"
             ]
         ]
+    },
+    "require": {
+        "magestore/bannerslider-magento2": "*"
     }
 }
 

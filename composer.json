@@ -19,5 +19,13 @@
         "psr-4": {
             "Mtesting\\Bases\\": ""
         }
+    },
+    "extra": {
+        "map": [
+            [
+                "*","app/code/Mtesting/Bases/"
+            ]
+        ]
     }
 }
+

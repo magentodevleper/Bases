@@ -5,7 +5,7 @@
     "require": {
         "php": "~5.6.0|7.0.2|~7.0.6",
         "magento/framework": "100.1.*",
-        "magestore/bannerslider-magento2": "1.7.1"
+        "magestore/bannerslider-magento2": "dev-master"
     },
     "type": "magento2-module",
     "version": "1.0.0",

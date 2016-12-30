@@ -17,13 +17,13 @@
             "registration.php"
         ],
         "psr-4": {
-            "Vsourz\\Bases\\": ""
+            "Mtesting\\Bases\\": ""
         }
     },
     "extra": {
         "map": [
             [
-                "*","Vsourz/Bases/"
+                "*","Mtesting/Bases/"
             ]
         ]
     }

@@ -2,8 +2,7 @@
 {
     "name": "magentodevleper/Bases",
     "description": "Advanced Order Success Page",
-    "require": {
-        //"php": "7.0.2|~7.0.6",
+    "require": {        
         "magento/framework": "100.0.*|100.2.*"
     },
     "type": "magento2-module",
